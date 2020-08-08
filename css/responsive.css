@@ -1,0 +1,324 @@
+/* =================================================
+
+Template Name:  NANDINI - One Page Business html Template
+Author: MouriTheme
+Version: 1.0
+Design and Developed by: MouriTheme
+
+NB: This is the main stylesheet of this theme.
+
+=================================================== */
+
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px){
+    .lg-mb-30{
+        margin-bottom: 30px;
+    }
+}
+
+    /* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .sm-mb-30{
+        margin-bottom: 30px;
+    }
+
+    .sm-mb-0{
+        margin-bottom: 0;
+    }
+
+    .banner-text-area h1 {
+        line-height: 1.5;
+        font-size: 40px;
+    }
+
+    .slider-middle-text {
+        top: 40%;
+    }
+
+    #testimonial-carousel .item p {
+        width: 90%;
+    }
+
+    .call-to-action-content {
+        font-size: 20px;
+        line-height: 1.3;
+    }
+
+    .db-pricing-eleven .price {
+        font-size: 40px;
+    }
+
+    .db-pricing-eleven .type {
+        padding: 20px;
+        font-weight: 900;
+        font-size: 23px;
+    }
+
+    .pricing-footer .btn-group-lg > .pricing-footer .btn, .btn-lg {
+        font-size: 16px;
+    }
+
+    .blog-area{
+        padding: 60px 0 0;
+    }
+
+    .port-zoom-link {
+        top: 40%;
+    }
+
+    .port-zoom-link a i {
+        font-size: 15px;
+        padding: 12px;
+    }
+
+
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+
+    .section-padding{
+        padding: 60px 0;
+    }
+
+    .section-title h2 {
+        font-size: 25px;
+    }
+
+    .navbar-toggle .icon-bar {
+        background: #e74c3c;
+    }
+
+    .navbar-right li a {
+        padding: 10px;
+    }
+
+    .navbar-nav {
+        display: inherit;
+        background-color: transparent;
+    }
+
+    .navbar-nav li {
+        float: left;
+        display: inherit;
+        width: 100%;
+    }
+
+    .navbar-fixed-top .navbar-collapse {
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .navbar-fixed-top .navbar-collapse {
+        max-height: 100%;
+    }
+
+    .sticky_navigation .nav li a {
+        color: #ffffff;
+        text-align: center;
+    }
+    .navbar-right li a {
+        text-align: center;
+    }
+
+    .navbar-right li a {
+        padding: 7px;
+    }
+
+    .welcome-des {
+        font-size: 13px;
+    }
+
+    .banner-text-area p {
+        font-size: 13px;
+    }
+
+    .banner-btn a {
+        padding: 8px 20px;
+        letter-spacing: 1px;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .slide-btn a {
+        padding: 10px 20px;
+        letter-spacing: 1px;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .banner-text-area h1 {
+        font-size: 30px;
+        line-height: 1.3;
+        word-spacing: 0;
+        letter-spacing: 0;
+        font-weight: 600;
+    }
+
+    .banner-text-area h3 {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .slider-middle-text {
+        top: 25%;
+    }
+
+    .xs-mb-30{
+        margin-bottom: 30px;
+    }
+
+    .about-top h2 {
+        font-size: 23px;
+        line-height: 1.4;
+        padding: 15px 0;
+        margin: 0 0 10px;
+    }
+
+    .classic-title {
+        margin-top: 30px;
+    }
+
+    .call-btn {
+        margin-top: 25px;
+    }
+
+    .call-to-action-content {
+        font-size: 20px;
+        line-height: 1.5;
+        text-align: center;
+    }
+
+    .call-to-action {
+        text-align: center;
+    }
+
+
+    ul.port-nav-list li {
+        margin-bottom: 10px;
+    }
+
+    .overlay .overlay-inner h4 {
+        font-size: 20px;
+        letter-spacing: 2px;
+    }
+
+    .services-area .sin-services {
+        padding: 20px;
+    }
+
+    #testimonial-carousel .item p {
+        width: 95%;
+    }
+
+    .single-pricing .price-value {
+        font-size: 45px;
+    }
+
+    .blog-img img {
+        width: 100%;
+    }
+
+    .single-count h2 {
+        font-size: 45px;
+    }
+
+    .single-count p {
+        font-size: 16px;
+    }
+
+    .single-award h2 {
+        font-size: 24px;
+        font-weight: 600;
+        letter-spacing: 0;
+        width: 90%;
+    }
+
+    .award-area h3 {
+        font-size: 13px;
+        font-weight: 500;
+        text-transform: capitalize;
+        letter-spacing: 0;
+    }
+
+    .blog-header h2 {
+        font-size: 27px;
+    }
+
+    .blog-header {
+        height: 300px;
+    }
+
+    .blog-post-title {
+        font-size: 23px;
+        line-height: 1.4;
+    }
+
+    .depth-2 {
+        padding-left: 0;
+    }
+
+    .depth-3 {
+        padding-left: 0;
+    }
+
+    .blog-area {
+        padding: 60px 0 0;
+    }
+
+    .port-zoom-link {
+        top: 40%;
+    }
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+
+}
+
+
+@media only screen and (min-width: 360px) and (max-width: 767px){
+
+}
+
+
+@media screen and (min-width: 575px) and (max-width: 767px){
+    .slider-middle-text {
+        top: 40%;
+    }
+
+    .banner-text-area h1 {
+        font-size: 45px;
+        line-height: 1.5;
+    }
+
+    .overlay .overlay-inner h4 {
+        font-size: 30px;
+    }
+
+    .overlay .overlay-inner p {
+        font-size: 18px;
+    }
+
+    .banner-text-area p {
+        font-size: 15px;
+    }
+
+    .banner-text-area h3 {
+        font-size: 20px;
+    }
+
+    .welcome-des {
+        font-size: 15px;
+    }
+
+    .single-client img {
+        padding: 5%;
+    }
+
+}
+
+
